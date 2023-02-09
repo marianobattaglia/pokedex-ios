@@ -7,8 +7,8 @@ This application consumes the API: https://pokedex-bb36f.firebaseio.com/pokemon.
 # Run application
 1. Open terminal 
 2. Clone this repository\
-   `git clone https://github.com/marianobattaglia/objc-application.git`
-3. Open project file ObjcApplication.xcodeproj
+   `git clone https://github.com/marianobattaglia/pokedex-ios.git`
+3. Open project file Pokedex.xcodeproj
 
 # App Preview
 
